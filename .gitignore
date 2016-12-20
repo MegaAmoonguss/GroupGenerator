@@ -91,3 +91,5 @@ ENV/
 # Eclipse/PyDev project settings
 .project
 .pydevproject
+
+Click me!.sh
