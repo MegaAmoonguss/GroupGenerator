@@ -92,4 +92,5 @@ ENV/
 .project
 .pydevproject
 
-Click me!.sh
+# Group files
+Groups/

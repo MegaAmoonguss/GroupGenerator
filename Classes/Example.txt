@@ -1,23 +1,16 @@
 # Enter names line by line
+# Lines starting with a pound sign will be ignored
+Lucy
 Graham
-Tristan
-Keanu
-Cooper
-Ben
-Bradley
-Tori
-Jasmine
-Joe
-Eve
+Jacob
+Jack W.
+Quinn
+Jack S.
+Curtis
+Dennis
+Isabel K.
+Walter
 Chris
-Brendan
-Olivia
-Mazey
-Robin
-Maggie
-Stephanie
-Dan
-Lindsey
-Kelsey
-Julian
-Mark
+Sean
+Bilbo
+Tate
