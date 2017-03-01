@@ -56,7 +56,7 @@ def save(s):
 			print("Name cannot be empty.\n")
 
 	if not os.path.isdir("Groups"):
-		os.system("mkdir Groups")
+		os.mkdir("Groups")
 
 	if os.path.isfile("Groups/" + filename + ".txt"):
 		override = input("Groups/" + filename + ".txt already exists.\nOverride? (y/n) ")
